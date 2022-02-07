@@ -1,0 +1,46 @@
+*, body{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background: url("images/h9.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.index-container{
+    margin-top:40px;
+}
+.index-container .keffi{
+    margin-left: 25px;
+}
+.index-container .school-name{
+ font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ font-size: 40px;
+ color:rgb(1, 97, 57);
+ background-color:azure;
+ box-shadow: 0px 10px 10px 10px rgb(217, 232, 233);
+ border-radius:15px;
+}
+.index-container .project-name{
+font-style: italic;
+font-size:20px;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+background-color: azure;
+margin-top:-8px;
+margin:auto;
+width:400px;
+border-radius:15px;
+color:rgb(1, 97, 57);
+box-shadow: 0px 10px 10px 10px rgb(217, 232, 233);
+}
+.form{
+    margin-top:100px;
+}
+.login-form{
+    width: 350px;
+    /* margin:20%;  */
+}
+.login-form .input{
+    margin-top:20px;
+}

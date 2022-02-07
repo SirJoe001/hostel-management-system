@@ -1,0 +1,9 @@
+.select{
+    height: 50px;
+    width: 470px;
+    border-radius:25px;
+    border-color: rgb(192, 207, 207);
+    color:  rgb(139, 153, 153);
+    font-size: small;
+    padding:10px;
+}
